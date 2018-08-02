@@ -1,0 +1,7 @@
+{
+  "name": "FozglApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
